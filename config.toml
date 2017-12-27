@@ -1,6 +1,6 @@
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+baseurl = "http://abari.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "Amirali Abari"
+copyright = "&copy; 2018 Amirali Abari"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -12,7 +12,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-110675383-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
 
   # Font style.
@@ -39,20 +39,22 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Amirali Abari"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ {name= "Faculty of Business and IT", url="http://businessandit.uoit.ca"},
+  { name = "University of Ontario Institute of Technology", url = "http://www.uoit.ca" }
+   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "Amirali.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "        "
+  address = "ERC 2086, UOIT, 2000 Simcoe Street North,Oshawa, Ontario, L1H 7K4"
+  office_hours = "Email for appointment"
+  phone = "(905) 721-8668 ext. 5544"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -81,11 +83,11 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  latitude = "43.945759"
+  longitude = "-78.896291"
+  zoom = 16
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -142,7 +144,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["my_css.css"]
   custom_js  = []
 
   # Publication types.
@@ -158,7 +160,8 @@ defaultContentLanguageInSubdir = false
     'Work in progress',  # 3
     'Technical report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'Workshops'
   ]
 
   # Configuration of talk pages.
@@ -205,17 +208,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:abari@uoit.ca"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/a_abari"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.ca/citations?user=StJKkk0AAAAJ&hl=en"
 
   [[params.social]]
     icon = "github"
@@ -237,19 +240,27 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "News"
+  url = "#news"
   weight = 2
 
+
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research Group"
+  url = "#group"
   weight = 3
+
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 6
+
 
 [[menu.main]]
   name = "Teaching"
@@ -259,7 +270,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
