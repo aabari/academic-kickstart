@@ -17,10 +17,12 @@ weight = 30
 
 
 ## Current Courses:
+- INFR 3120, Web and Script Programming, Fall 2018.
+- CSCI 6250, Recommender Systems, Fall 2018.
 
-- CSCI 5730, Information and Social Network Analysis, Winter 2018.
-- INFR 4690, IT Forensics, Winter 2018.
 
 ## Previous Courses:
 
 - INFR 3120, Web and Script Programming, Fall 2017.
+- CSCI 5730, Information and Social Network Analysis, Winter 2018.
+- INFR 4690, IT Forensics, Winter 2018.
