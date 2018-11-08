@@ -19,7 +19,7 @@ weight = 10
 ## Current
 - Bahare Askari, MSc, 2018-Present (co-supervised with [Jarek Szlichta](http://data.science.uoit.ca)).
 - Hunter Thompson, MSc, 2018-Present (co-supervised with [Faisal Qureshi](http://vclab.science.uoit.ca)).
-- Katelyn Cushing, MSc, 2018-Present (co-supervised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
+- Katelyn Cushing, MSc, 2017-Present (co-supervised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
 - Kalev Gonvick, Undergraduate, 2018-Present (co-supervised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
 - Zach Parish, Undergraduate, 2018-Present (co-supervised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
 
