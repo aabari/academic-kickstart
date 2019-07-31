@@ -18,6 +18,9 @@ weight = 5
 
 
 {.icon-list}
--  [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) has announced its call for papers. I am serving as a [program committee member](http://celweb.vuse.vanderbilt.edu/aamas18/pc/). `September 1, 2017.`
--  I started as a tenure-track Assistant Professor in [Faculty of Business and IT](http://businessandit.uoit.ca) at [UOIT](http://uoit.ca). `August 1, 2017.`
--  [AAAI 2018](https://aaai.org/Conferences/AAAI-18/) has announced its call for papers. I am serving as a program committee member. `July 15, 2017.`
+- A [fully-funded Ph.D. position]({{< ref "/post/phd_position.md" >}}) is open in my research group. `July 27, 2019.`
+- [ICJAI 2019](https://ijcai19.org/) has announced its call for papers. I am serving as a [program committee member](https://www.ijcai19.org/program-committee.html). `January 1, 2019.`
+- [AAMAS 2019](http://aamas2019.encs.concordia.ca/) has announced its call for papers. I am serving as a [program committee member](http://aamas2019.encs.concordia.ca/pcm.html/). `October 1, 2018.`
+<!-- -  [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) has announced its call for papers. I am serving as a [program committee member](http://celweb.vuse.vanderbilt.edu/aamas18/pc/). `September 1, 2017.` -->
+<!-- -  I started as a tenure-track Assistant Professor in [Faculty of Business and IT](http://businessandit.uoit.ca) at [UOIT](http://uoit.ca). `August 1, 2017.` -->
+<!-- -  [AAAI 2018](https://aaai.org/Conferences/AAAI-18/) has announced its call for papers. I am serving as a program committee member. `July 15, 2017.` -->

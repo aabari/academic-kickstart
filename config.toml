@@ -1,6 +1,6 @@
 baseurl = "http://www.abari.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Amirali Abari | UOIT"
-copyright = "&copy; 2018 Amirali Abari"
+copyright = "&copy; 2019 Amirali Abari"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -44,8 +44,10 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name= "Faculty of Business and IT", url="http://businessandit.uoit.ca"},
-  { name = "University of Ontario Institute of Technology", url = "http://www.uoit.ca" }
+  organizations = [
+  {name= "Faculty of Business and IT", url="http://businessandit.uoit.ca"},
+  {name= "Computer Science", url="https://gradstudies.uoit.ca/future_students/programs/masters_programs/computer_science/index.php"},
+  { name = "Ontario Tech University", url = "http://www.uoit.ca" }
    ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -262,10 +264,10 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
