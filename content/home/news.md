@@ -18,6 +18,8 @@ weight = 5
 
 
 {.icon-list}
+- We have multiple openings at the [SAIN lab](https://sain.ca). See this [posting](https://www.sain.ca/post/news-post-1/) for details.
+- [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/) has announced its call for papers. I am serving as a program committee member.
 - A [fully-funded Ph.D. position]({{< ref "/post/phd_position.md" >}}) is open in my research group. `July 27, 2019.`
 - [IJCAI 2019](https://ijcai19.org/) has announced its call for papers. I am serving as a [program committee member](https://www.ijcai19.org/program-committee.html). `January 1, 2019.`
 - [AAMAS 2019](http://aamas2019.encs.concordia.ca/) has announced its call for papers. I am serving as a [program committee member](http://aamas2019.encs.concordia.ca/pcm.html/). `October 1, 2018.`

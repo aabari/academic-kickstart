@@ -17,12 +17,17 @@ weight = 10
 
 
 ## Current
+- Aryan Asadian, MSc, 2019-Present.
+- Davood Zamanfarsa, MSc, 2019-Present.
+- Alireza Naman, MSc, 2019-Present (co-advised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
+- Nadia Maarfavi, Ph.D., 2019-Present (co-advised with [Salma Karray](https://businessandit.ontariotechu.ca/people/faculty/management/salma-karray-phd.php)).
 - Alaadin Addas, Ph.D., 2019-Present (co-advised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
 - Sarina Sajjadi, MSc, 2019-Present.
 - Bahare Askari, MSc, 2018-Present (co-advised with [Jarek Szlichta](http://data.science.uoit.ca)).
 <!-- - Hunter Thompson, MSc, 2018-Present (co-supervised with [Faisal Qureshi](http://vclab.science.uoit.ca)).-->
 - Katelyn Cushing, MSc, 2017-Present (co-advised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
 - Zach Parish, Undergraduate, 2019-Present.
+- Arun Sharma, Undergraduate, 2019-Present
 
 ## Past
 - Kalev Gonvick, Undergraduate, 2018-2019 (co-advised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
