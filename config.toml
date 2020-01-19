@@ -1,5 +1,5 @@
 baseurl = "http://www.abari.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Amirali Abari | Ontario Tech"
+title = "Amirali Abari"
 copyright = "&copy; 2020 Amirali Abari"
 theme = "academic"
 enableEmoji = true
