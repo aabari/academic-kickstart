@@ -18,7 +18,7 @@ weight = 10
 
 ## Current
 - Aryan Asadian, MSc, 2019-Present.
-- Davood Zamanfarsa, MSc, 2019-Present.
+<!-- - Davood Zamanfarsa, MSc, 2019-Present. -->
 - Alireza Naman, MSc, 2019-Present (co-advised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
 - Nadia Maarfavi, Ph.D., 2019-Present (co-advised with [Salma Karray](https://businessandit.ontariotechu.ca/people/faculty/management/salma-karray-phd.php)).
 - Alaadin Addas, Ph.D., 2019-Present (co-advised with [Julie Thorpe](http://thorpe.hrl.uoit.ca/)).
